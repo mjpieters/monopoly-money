@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d40c91df.chunk.css",
+    "main.js": "/static/js/main.d8561673.chunk.js",
+    "main.js.map": "/static/js/main.d8561673.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc00fddc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc00fddc.js.map",
+    "static/js/2.13e615f8.chunk.js": "/static/js/2.13e615f8.chunk.js",
+    "static/js/2.13e615f8.chunk.js.map": "/static/js/2.13e615f8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.82924b8a9a70560ecca4a1731ff1fd64.js": "/precache-manifest.82924b8a9a70560ecca4a1731ff1fd64.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d40c91df.chunk.css.map": "/static/css/main.d40c91df.chunk.css.map",
+    "static/js/2.13e615f8.chunk.js.LICENSE.txt": "/static/js/2.13e615f8.chunk.js.LICENSE.txt",
+    "static/media/bank.1c746165.svg": "/static/media/bank.1c746165.svg",
+    "static/media/banner.png": "/static/media/banner.6db68e8e.png",
+    "static/media/funds.ef509e7a.svg": "/static/media/funds.ef509e7a.svg",
+    "static/media/list.cc604769.svg": "/static/media/list.cc604769.svg",
+    "static/media/settings.40a78ad1.svg": "/static/media/settings.40a78ad1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc00fddc.js",
+    "static/js/2.13e615f8.chunk.js",
+    "static/css/main.d40c91df.chunk.css",
+    "static/js/main.d8561673.chunk.js"
+  ]
+}
