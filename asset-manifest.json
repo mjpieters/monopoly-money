@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4866235.chunk.css",
-    "main.js": "/static/js/main.f213a2bc.chunk.js",
+    "main.css": "/static/css/main.add680dc.chunk.css",
+    "main.js": "/static/js/main.8c1c1488.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.fc00fddc.js",
-    "static/js/2.f8c7c2c1.chunk.js": "/static/js/2.f8c7c2c1.chunk.js",
+    "static/js/2.79740d5c.chunk.js": "/static/js/2.79740d5c.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.94a44729d4eb7e06dfe66a496aa298d0.js": "/precache-manifest.94a44729d4eb7e06dfe66a496aa298d0.js",
+    "precache-manifest.455f88af9a1c57fc771443248e2235d0.js": "/precache-manifest.455f88af9a1c57fc771443248e2235d0.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.f8c7c2c1.chunk.js.LICENSE.txt": "/static/js/2.f8c7c2c1.chunk.js.LICENSE.txt",
+    "static/js/2.79740d5c.chunk.js.LICENSE.txt": "/static/js/2.79740d5c.chunk.js.LICENSE.txt",
     "static/media/bank.1c746165.svg": "/static/media/bank.1c746165.svg",
     "static/media/banner.png": "/static/media/banner.6db68e8e.png",
     "static/media/funds.ef509e7a.svg": "/static/media/funds.ef509e7a.svg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fc00fddc.js",
-    "static/js/2.f8c7c2c1.chunk.js",
-    "static/css/main.c4866235.chunk.css",
-    "static/js/main.f213a2bc.chunk.js"
+    "static/js/2.79740d5c.chunk.js",
+    "static/css/main.add680dc.chunk.css",
+    "static/js/main.8c1c1488.chunk.js"
   ]
 }
